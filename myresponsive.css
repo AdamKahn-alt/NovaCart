@@ -490,7 +490,7 @@ body {
   }
 
   .category-title {
-    scroll-margin-top: 10rem;
+    scroll-margin-top: 8.5rem;
   }
 
   .product-category .category-title {
@@ -1319,4 +1319,5 @@ body {
     font-size: 2rem;
   }
 }
+
 
