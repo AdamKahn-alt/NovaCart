@@ -446,7 +446,7 @@ body {
 
   .footer-input {
     width: 12rem;
-    font-size: 1.3rem;
+    font-size: 0.65rem;
   }
 
   .footer-about h3 {
@@ -473,7 +473,7 @@ body {
   }
 
   .footer-newsletter p {
-    font-size: 1rem;
+    font-size: 0.85rem;
     margin-bottom: 1rem;
   }
 
@@ -483,7 +483,7 @@ body {
 
   .footer-btn {
     width: 8rem;
-    font-size: 1rem;
+    font-size: 0.61rem;
   }
 
   .footer-socials {
@@ -1392,6 +1392,7 @@ body {
     font-size: 2rem;
   }
 }
+
 
 
 
