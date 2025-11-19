@@ -446,21 +446,26 @@ body {
 
   .footer-input {
     width: 12rem;
-    font-size: 0.65rem;
+    font-size: 0.9rem;
   }
 
   .footer-about h3 {
-    font-size: 1.1rem;
+    font-size: 1.35rem;
     width: 100%;
   }
 
   .footer-about p {
-    font-size: 0.8rem;
+    font-size: 1.05rem;
   }
 
   .footer-links {
     margin: 0;
     font-size: 0.65rem;
+  }
+
+  .footer-links ul li { 
+    font-size: 1.05rem;
+    margin: 0;
   }
 
   .footer-links .footer-title {
@@ -473,7 +478,7 @@ body {
   }
 
   .footer-newsletter p {
-    font-size: 0.85rem;
+    font-size: 1.05rem;
     margin-bottom: 1rem;
   }
 
@@ -483,7 +488,7 @@ body {
 
   .footer-btn {
     width: 8rem;
-    font-size: 0.61rem;
+    font-size: 0.85rem;
   }
 
   .footer-socials {
@@ -492,7 +497,7 @@ body {
   }
 
   .footer-socials .social-text {
-    font-size: 0.85rem;
+    font-size: 1.01rem;
   }
 
   .footer-bottom {
@@ -502,16 +507,16 @@ body {
   }
 
   .footer-bottom p {
-    font-size: 0.9rem;
+    font-size: 1.05rem;
     margin: 0;
   }
 
   .footer-bottom h4 {
-    font-size: 0.65rem;
+    font-size: 0.85rem;
   }
 
   .footer-title {
-    font-size: 1rem;
+    font-size: 1.35rem;
   }
 
   /**********************\
@@ -1392,6 +1397,7 @@ body {
     font-size: 2rem;
   }
 }
+
 
 
 
