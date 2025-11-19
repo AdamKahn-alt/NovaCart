@@ -450,7 +450,7 @@ body {
   }
 
   .footer-about h3 {
-    font-size: 2rem;
+    font-size: 1.1rem;
     width: 100%;
   }
 
@@ -460,11 +460,12 @@ body {
 
   .footer-links {
     margin: 0;
-    font-size: 1rem;
+    font-size: 0.65rem;
   }
 
   .footer-links .footer-title {
     margin-bottom: 1rem;
+    font-size: 1rem;
   }
 
   .footer-newsletter {
@@ -476,13 +477,21 @@ body {
     margin-bottom: 1rem;
   }
 
+  .footer-socials .social-item {
+    font-size: 0.85rem;
+  }
+
   .footer-btn {
     width: 8rem;
-    font-size: 1.3rem;
+    font-size: 1rem;
   }
 
   .footer-socials {
     margin: 0;
+  }
+
+  .footer-socials .social-text {
+    font-size: 0.85rem;
   }
 
   .footer-bottom {
@@ -501,7 +510,7 @@ body {
   }
 
   .footer-title {
-    font-size: 2.5rem;
+    font-size: 1rem;
   }
 
   /**********************\
@@ -1382,4 +1391,5 @@ body {
     font-size: 2rem;
   }
 }
+
 
